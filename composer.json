@@ -1,0 +1,19 @@
+{
+    "name": "frankenstein/school-review",
+    "description": "Dashboard rating-widget to display a school ratings and reviews",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Frankenstein\\SchoolReview\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "starred136",
+            "email": "tangmohnkenfack@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
